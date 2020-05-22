@@ -1,6 +1,4 @@
-// Copyright Jared Hutton 2020
-
-// Test
+// Copyright Jared Hutton 2020 
 
 #include "Grabber.h"
 #include "DrawDebugHelpers.h"
